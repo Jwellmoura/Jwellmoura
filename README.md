@@ -1,58 +1,35 @@
-Skip to content
- 
-Search Gists
-Search...
-All gists
-Back to GitHub
-@manualdofront
-manualdofront/YOUR-README.md
-Created 3 months ago • Report abuse
-Code
-Revisions
-1
-Clone this repository at &lt;script src=&quot;https://gist.github.com/manualdofront/04336eeedd02f76d55926c076da4ab05.js&quot;&gt;&lt;/script&gt;
-<script src="https://gist.github.com/manualdofront/04336eeedd02f76d55926c076da4ab05.js"></script>
-Seu perfil será atrativo, mas também objetivo - utilize esse template SEM moderação!
-YOUR-README.md
-GitHub Octocat Drinking a Cup of Coffee
-Headline
-Olá 👋, Eu sou {SEU-NOME-AQUI}
-{Seu-cargo-aqui} residente em {Cidade-Estado}/{País}.
-{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}
+<div align=center>
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
+<div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Headline" />
+</div>
 
-manualdofront
+<h1 align="center">Olá 👋, Eu sou {SEU-NOME-AQUI}</h1>
+<h3 align="center">{Seu-cargo-aqui} residente em {Cidade-Estado}/{País}.</h3>
+<p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
 
-🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
 
-🔭 Atualmente, eu trabalho na Nome-da-empresa.
+> _🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário._
 
-🌱 Meus estudos atuais focam em Front End (Angular, JavaScript and TypeScript) e Application Design (Hexagonal Architecture).
+- 🔭 Atualmente, eu trabalho na [Nome-da-empresa](https://site-da-empresa.com/).
 
-📫 Este é meu e-mail para contato: contatomanualdofront@gmail.com
+- 🌱 Meus estudos atuais focam em **Front End (Angular, JavaScript and TypeScript)** e **Application Design (Hexagonal Architecture)**.
 
-Linguagens e Ferramentas que domino:
-Minhas habilidades
+- 📫 Este é meu e-mail para contato: **contatomanualdofront@gmail.com**
 
-🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades nesse link.
 
-Entre em contato comigo:
-Linkedin Gmail
+<h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-🚨☝️ Encontre uma lista completa de ícones e opções para adicionar seus contatos nesse link. Lembre-se de atualizar os links para SUAS redes sociais!
+[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,angular)]()
 
-@Jwellmoura
-Comment
- 
-Leave a comment
- 
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
+> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
+
+
+<h3 align="left">Entre em contato comigo:</h3>
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manualdofront/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contatomanualdofront@gmail.com)
+
+> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar seus contatos [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list). **Lembre-se de atualizar os links para SUAS redes sociais!**_
